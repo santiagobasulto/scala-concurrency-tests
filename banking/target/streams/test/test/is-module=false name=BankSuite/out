@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mBankSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Bank should have 10 accounts[0m[0m
+[0m[[0minfo[0m] [0m[32m- Total ammount of money in bank[0m[0m
+[0m[[0minfo[0m] [0m[32m- A bank should have 10 accounts[0m[0m
+[0m[[0minfo[0m] [0m[32m- The initial balance of an account should be 1000[0m[0m
+[0m[[0minfo[0m] [0m[32m- After transfering 100 from account 1 to account 2 the total balance should remain[0m[0m
