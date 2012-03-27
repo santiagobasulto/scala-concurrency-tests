@@ -2,26 +2,26 @@
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
 [0m[[0mdebug[0m] [0m	added: Set()[0m
-[0m[[0mdebug[0m] [0m	modified: Set(/home/santiago/code/scala/akka_test/banking/src/test/scala/ar/com/santiagobasulto/unsynchbank/BankSuite.scala)[0m
-[0m[[0mdebug[0m] [0mRemoved products: Set(/home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes/BankSuite$$anonfun$2.class, /home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes/BankSuite$$anonfun$3.class, /home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes/BankSuite$$anonfun$1.class, /home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes/BankSuite.class, /home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes/BankSuite$$anonfun$4.class, /home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes/BankSuite$$anonfun$6.class, /home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes/BankSuite$$anonfun$5.class)[0m
-[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set(ar.com.santiagobasulto.unsynchbank.Bank, ar.com.santiagobasulto.unsynchbank.Account)[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/santiago/code/scala/akka_test/banking/src/test/scala/ar/com/santiagobasulto/unsynchbank/BankSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
-[0m[[0mdebug[0m] [0m	product: Set(/home/santiago/code/scala/akka_test/banking/src/test/scala/ar/com/santiagobasulto/unsynchbank/BankSuite.scala)[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
-[0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/santiago/code/scala/akka_test/banking/src/test/scala/ar/com/santiagobasulto/unsynchbank/BankSuite.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes...[0m
+[0m[[0mdebug[0m] [0m	external source: Set(/home/santiago/code/scala/scala-concurrency-tests/banking/src/test/scala/ar/com/santiagobasulto/unsynchbank/BankSuite.scala)[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/santiago/code/scala/scala-concurrency-tests/banking/src/test/scala/ar/com/santiagobasulto/unsynchbank/BankSuite.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/santiago/code/scala/scala-concurrency-tests/banking/target/scala-2.9.1/test-classes...[0m
 [0m[[0mdebug[0m] [0mInterfacing (CompilerInterface) with Scala compiler version 2.9.1.final[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-d[0m
-[0m[[0mdebug[0m] [0m	/home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes[0m
+[0m[[0mdebug[0m] [0m	/home/santiago/code/scala/scala-concurrency-tests/banking/target/scala-2.9.1/test-classes[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/jdk1.7.0_03/jre/lib/resources.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/rt.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/sunrsasign.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/jce.jar:/usr/lib/jvm/jdk1.7.0_03/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.7.0_03/jre/classes:/home/santiago/.sbt/boot/scala-2.9.1/lib/scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/test-classes:/home/santiago/code/scala/akka_test/banking/target/scala-2.9.1/classes:/home/santiago/.ivy2/cache/com.typesafe.akka/akka-actor/jars/akka-actor-2.0.jar:/home/santiago/.ivy2/cache/org.scalatest/scalatest_2.9.1/jars/scalatest_2.9.1-1.6.1.jar[0m
-[0m[[0mdebug[0m] [0m	/home/santiago/code/scala/akka_test/banking/src/test/scala/ar/com/santiagobasulto/unsynchbank/BankSuite.scala[0m
+[0m[[0mdebug[0m] [0m	/home/santiago/code/scala/scala-concurrency-tests/banking/target/scala-2.9.1/test-classes:/home/santiago/code/scala/scala-concurrency-tests/banking/target/scala-2.9.1/classes:/home/santiago/.ivy2/cache/com.typesafe.akka/akka-actor/jars/akka-actor-2.0.jar:/home/santiago/.ivy2/cache/org.scalatest/scalatest_2.9.1/jars/scalatest_2.9.1-1.6.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/santiago/code/scala/scala-concurrency-tests/banking/src/test/scala/ar/com/santiagobasulto/unsynchbank/BankSuite.scala[0m
 [0m[[0mdebug[0m] [0m	Invalidated direct: Set()[0m
 [0m[[0mdebug[0m] [0mIncrementally invalidated: Set()[0m
